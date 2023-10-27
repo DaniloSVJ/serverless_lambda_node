@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.dynamodb
+# esbuild directories
+.esbuild
+.env
+teste.js
+yarn.lock
+yarn-error.log
